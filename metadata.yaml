@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1766
     wikipedia: http://en.wikipedia.org/wiki/Sabine_Baring-Gould
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21987#The-Village-Pulpit-Volume-II.-Trinity-to-AdventA-Complete-Course-of-66-Short-Sermons-or-Full-_
 gutenberg_bookshelf: Christianity
 gutenberg_issued: '2007-07-02'
 gutenberg_type: Text
