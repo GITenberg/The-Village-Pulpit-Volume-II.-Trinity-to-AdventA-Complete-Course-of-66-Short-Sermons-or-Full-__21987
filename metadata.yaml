@@ -1,0 +1,39 @@
+_repo: The-Village-Pulpit-Volume-II.-Trinity-to-AdventA-Complete-Course-of-66-Short-Sermons-or-Full-__21987
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Baring-Gould, S. (Sabine)
+    aliases:
+    - Gould, S. Baring
+    - Gould, Sabine Baring
+    - Baring-Gould, Sabine
+    birthdate: 1834
+    deathdate: 1924
+    gutenberg_agent_id: '1766'
+    url: http://www.gutenberg.org/2009/agents/1766
+    wikipedia: http://en.wikipedia.org/wiki/Sabine_Baring-Gould
+description: ''
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '2007-07-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21987'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Anglican Communion -- England -- Sermons'
+- !lcsh 'Sermons, English'
+- !lcsh 'Church year sermons'
+- !lcc 'BV'
+- !lcsh 'Church of England -- Sermons'
+title: 'The Village Pulpit, Volume II. Trinity to Advent
+
+  A Complete Course of 66 Short Sermons, or Full Sermon Outlines for Each Sunday,
+  and Some Chief Holy Days of the Christian Year'
+url: http://www.gutenberg.org/ebooks/21987
